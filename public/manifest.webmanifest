@@ -1,0 +1,8 @@
+{
+  "name": "budget tracker app",
+  "short_name": "budget tracker app",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
